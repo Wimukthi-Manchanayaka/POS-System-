@@ -1,2 +1,2 @@
 # POS-System-
-Developing a POS system useing Flutter 
+Developing a POS system using Flutter 
